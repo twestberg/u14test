@@ -1,0 +1,4 @@
+system:
+  nbd_server: "ubuntu14"
+tests:
+  - ./u14test.sh
